@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Agustín Bustos Piasentini.
 
-I am an accountant that is really into developing automations and solutions for business problems.
+I am an accountant that is really into developing automations and business solutions.
 
 <br/>
 
